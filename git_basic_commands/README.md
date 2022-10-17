@@ -109,5 +109,9 @@ Demonstate minimum 15 basic Git commands with explanation and screenshots.
 
 14. switch
 
+    The "switch" command allows you to switch your current HEAD branch.
 
+    ![switch](screenshots/switch.png)
+
+15. stash
 
