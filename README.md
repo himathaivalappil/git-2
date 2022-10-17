@@ -1,7 +1,18 @@
-# Task 2
+# About this repository
 
-Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
-- Proper open source structure
-- Proper Readme
-- Add 2 collaborator
-- Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+This repo contains the solutions for assignment Git and Github.
+## Task 1
+
+**Folder git_basic_commands** contains 15 basic git commands with explanation and screenshots.
+
+## Task 2
+
+This repo conatins a proper open source structure, readme andtwo collaborators. 
+
+This repo is hosted using Github pages and the site is live at *https://himathaivalappil.github.io/git-and-github/*
+
+
+## Task 3
+
+An issue is created and the raised pull request is merged with the main branch. 
+
