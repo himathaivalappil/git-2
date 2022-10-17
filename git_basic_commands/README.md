@@ -115,3 +115,10 @@ Demonstate minimum 15 basic Git commands with explanation and screenshots.
 
 15. stash
 
+    **git stash** temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.    
+    
+    ![stash](screenshots/stash.png)
+
+    You can reapply previously stashed changes with **git stash pop**. Popping your stash removes the changes from your stash and reapplies them to your working copy.
+
+    ![stashpop](screenshots/stash_pop.png)
