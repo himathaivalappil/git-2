@@ -16,3 +16,8 @@ This repo is hosted using Github pages and the site is live at *https://himathai
 
 An issue is created and the raised pull request is merged with the main branch. 
 
+Changes are stashed and screenshots are added in *git_basic_commands/screenshots*
+
+A release with tag v1.0.0 is done.
+
+A project board named **ProjectBoard** is added in Projects section.
